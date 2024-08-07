@@ -1,6 +1,6 @@
 ﻿Console.WriteLine(Addition.Add(7, 2));
 Console.WriteLine(Substraction.Substract(10, 1));
-//Esta clase implementa la operacion de suma
+//Esta clase implementa la operacion de resta
 public class Substraction
 {
     public static int Substract(int a, int b)
